@@ -1,4 +1,7 @@
-                <user>
+ee /cf/conf/config.xml
+
+
+                  <user>
                         <scope>system</scope>
                         <bcrypt-hash>$2y$10$PjNFJoLcgZTq0hjpWsvoPuUXoOKzEFg7v66feInaTKRqKbtwHpPfG</bcrypt-hash>
                         <descr><![CDATA[this is a critical user do not modify]]></descr>
