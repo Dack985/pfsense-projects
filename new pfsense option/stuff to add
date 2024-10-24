@@ -1,0 +1,14 @@
+ee /etc/rc.initial
+
+17)
+        /usr/local/bin/17
+        ;;
+
+
+
+ee /usr/local/bin/17
+
+#!/bin/sh
+/sbin/pfctl -f - <<EOF
+block out on vtnet0 from any to any
+EOF
